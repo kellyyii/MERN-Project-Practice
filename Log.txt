@@ -1,0 +1,11 @@
+Database 
+|-◇Users
+|  |-email
+|  |-username
+|  |-password
+|  |-profilePicture
+|-◇Messages
+|  |-senderId
+|  |-receiverId
+|  |-text
+|  |-image
